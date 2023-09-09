@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Sistema de comentarios de PHP (Me gusta, No me gusta)</title>
+    <title>Sistema de comentarios</title>
     <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
@@ -33,7 +33,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h4>Sistema de comentarios PHP (Me gusta, No me gusta)</h4>
+                <h4>Sistema de comentarios</h4>
             </div>
         </div>
         <div class="row">
